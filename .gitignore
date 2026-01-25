@@ -1,0 +1,18 @@
+# Virtual environments
+venv/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Config secrets
+config/*.json
+config/*.yaml
+config/*.yml
